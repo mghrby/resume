@@ -1,2 +1,2 @@
 # resume
-My latest Resumr
+My latest Resume
